@@ -1,1 +1,1 @@
-# wekday-assignment
+# weekday-assignment
